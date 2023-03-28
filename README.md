@@ -1,2 +1,2 @@
 # parqueFile
-Reading and Iterating a .parquet file
+Reading and logging a parquet file.
